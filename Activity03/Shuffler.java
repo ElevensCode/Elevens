@@ -104,7 +104,7 @@ public class Shuffler {
 		   int j = (int)(52*Math.random());
 		   while (values[j]!=empty)
 		       j = (int)(52*Math.random());
-		   values[j]=shuffled[k];    
+		   values[j]=shuffled[k];
 		} 
 	}
 }
